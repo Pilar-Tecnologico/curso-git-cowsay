@@ -1,6 +1,6 @@
 {
   "name": "curso-git-cowsay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hola mundo con una vaquita",
   "main": "app.js",
   "scripts": {
