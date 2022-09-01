@@ -1,0 +1,19 @@
+{
+  "name": "curso-git-cowsay",
+  "version": "1.0.0",
+  "description": "Hola mundo con una vaquita",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcos Peña Pollastri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pilar-Tecnologico/curso-git-cowsay/issues"
+  },
+  "homepage": "https://github.com/Pilar-Tecnologico/curso-git-cowsay#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
