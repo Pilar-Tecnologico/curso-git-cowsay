@@ -1,6 +1,6 @@
 const cowsay = require('cowsay');
 const owoifyx = require('owoifyx').default;
-const dialog = owoifyx('Hello how are you?');
+const dialog = owoifyx('Hello how are you? I\'m fine');
 
 const msj = cowsay.say({
     text : dialog,
