@@ -14,6 +14,7 @@
   },
   "homepage": "https://github.com/Pilar-Tecnologico/curso-git-cowsay#readme",
   "dependencies": {
-    "cowsay": "^1.5.0"
+    "cowsay": "^1.5.0",
+    "owoifyx": "^1.0.4"
   }
 }
