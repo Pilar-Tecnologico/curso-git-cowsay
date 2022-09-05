@@ -4,7 +4,7 @@ const dialog = owoifyx('Hello how are you?');
 
 const msj = cowsay.say({
     text : dialog,
-    e : "OO",
+    e : "ee",
     T : "U"
 });
 
